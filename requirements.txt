@@ -1,0 +1,7 @@
+numpy
+pandas
+duckduckgo-search
+yfinance
+google-generativeai
+phi
+python-dotenv
